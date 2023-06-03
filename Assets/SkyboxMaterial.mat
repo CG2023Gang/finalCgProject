@@ -72,7 +72,7 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Km: 0.00675
-    - _Kr: 0.001
+    - _Kr: 0.01
     - _LightBrightness: 10
     - _Metallic: 0
     - _Mode: 0

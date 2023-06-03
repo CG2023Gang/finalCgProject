@@ -65,7 +65,7 @@ Material:
     - _DeepCoefficient: 0.00613
     - _DensityScale: 1
     - _DetailNormalMapScale: 1
-    - _DiffuseCoefficient: 7.19
+    - _DiffuseCoefficient: 3.68
     - _DstBlend: 10
     - _ExtinctionCoefficient: 0.675
     - _GlossMapScale: 1
@@ -75,10 +75,10 @@ Material:
     - _Mode: 3
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ShineCoeff: 2.21
+    - _ShineCoeff: 7.33
     - _ShoreCoefficient: 0.195
     - _SmoothnessTextureChannel: 1
-    - _Specular: 7.92
+    - _Specular: 5.36
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SunLight: 1
